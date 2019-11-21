@@ -15,4 +15,3 @@ def scalar_product(first_list, second_list):
             result += first_list[number] * second_list[number]
         print(result)
     return result
-
